@@ -42,6 +42,7 @@ const SocketProvider = ({ children }: { children: ReactNode }) => {
         () =>
             io(BACKEND_URL, {
                 reconnectionAttempts: 2,
+                timeout: 40000,
             }),
         [],
     )
