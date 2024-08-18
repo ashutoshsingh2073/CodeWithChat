@@ -4,7 +4,7 @@ function Footer() {
             <span>
                 Build with ❤️ by{" "}
                 <a
-                    href="https://github.com/sahilatahar"
+                    href="https://github.com/ashutoshsingh2073"
                     className="text-primary underline underline-offset-1"
                 >
                     sahilatahar
